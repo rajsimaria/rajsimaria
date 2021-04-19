@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rajsimaria
-- 👀 I’m interested in FYJC Commerce (Junior College)
-- 🌱 I’m currently learning JavaScript
+- 👀 I study in FYJC Commerce (Junior College)
 - 📫 You can catch me on my Instagram(raj.simaria007), Twitter(raj_simaria), Mail(rajsimaria@hotmail.com). 
 
 <!---
